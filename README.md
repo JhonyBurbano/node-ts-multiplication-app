@@ -23,7 +23,7 @@ npx ts-node src/app.ts --base 9 -s
 ```
 
 add flag
---base = number table, \n
+--base = number table,
 -s = show table message, 
 -n = file name, 
 -d = file destination
